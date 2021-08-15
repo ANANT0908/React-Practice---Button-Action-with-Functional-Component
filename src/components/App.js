@@ -9,7 +9,7 @@ const pHidden = () =>{
 
   return (
     <div id="main"> 
-      <button id="Click" 
+      <button id="click" 
       onClick={pHidden}
       >show para</button>
         {para ?  (
